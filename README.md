@@ -20,3 +20,15 @@ We have divided the handbook into two parts Dev and Ops.
    * Deploy
    * Operate
    * Monitor
+
+
+
+
+
+
+
+
+
+## Contributing:
+* Always create pull request to merge the changes. 
+* [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
