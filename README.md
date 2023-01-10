@@ -4,7 +4,7 @@ We have divided the sections into two parts Dev and Ops.
 
 # Dev
    * Plan 
-   * [Code](https://github.com/Clustox/handbook/blob/main/code.md)
+   * [Code](https://github.com/Clustox/handbook/blob/main/code/index.md)
    * Build
    * Test
 # Ops
