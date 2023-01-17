@@ -15,7 +15,7 @@ We have divided the handbook into two parts Dev and Ops.
   * Email Updates
   * Client Huddles
 
-##[Discovery](https://github.com/Clustox/handbook/blob/main/discovery/index.md)
+## [Discovery](https://github.com/Clustox/handbook/blob/main/discovery/index.md)
 
 ## Development
    * Planning 
