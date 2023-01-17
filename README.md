@@ -14,14 +14,17 @@ We have divided the handbook into two parts Dev and Ops.
   * Minutes of Meeting
   * Email Updates
   * Client Huddles
-## Dev
+
+##[Discovery](https://github.com/Clustox/handbook/blob/main/discovery/index.md)
+
+## Development
    * Planning 
    * Designing
    * [Code](https://github.com/Clustox/handbook/blob/main/dev/code/index.md)
    * Unit Testing
    * Integration Testing 
    * QA Testing
-## Ops
+## Operations
    * Release
    * Deploy
    * Operate
