@@ -10,18 +10,27 @@
 
 We have divided the handbook into two parts Dev and Ops.
 
+## Communication
+  * Minutes of Meeting
+  * Email Updates
+  * Client Huddles
 ## Dev
-   * Plan 
+   * Planning 
+   * Designing
    * [Code](https://github.com/Clustox/handbook/blob/main/dev/code/index.md)
-   * Build
-   * Test
+   * Unit Testing
+   * Integration Testing 
+   * QA Testing
 ## Ops
    * Release
    * Deploy
    * Operate
+   * Security
+   * Scalability
    * Monitor
 
 
+## Books and Articles
 
 
 
