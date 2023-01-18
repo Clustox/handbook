@@ -17,10 +17,12 @@ We have divided the handbook into two parts Dev and Ops.
 ## Dev
    * Planning 
    * Designing
+   * [Branching Strategy](/dev/branching_staregy/index.md)
    * [Code](https://github.com/Clustox/handbook/blob/main/dev/code/index.md)
    * Unit Testing
    * Integration Testing 
    * QA Testing
+## [Monitoring](/Monitoring/index.md)
 ## Ops
    * Release
    * Deploy
