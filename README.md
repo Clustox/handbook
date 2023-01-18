@@ -21,6 +21,7 @@ We have divided the handbook into two parts Dev and Ops.
    * Unit Testing
    * Integration Testing 
    * QA Testing
+## [Monitoring](/Monitoring/index.md)
 ## Ops
    * Release
    * Deploy
