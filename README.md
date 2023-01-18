@@ -17,6 +17,7 @@ We have divided the handbook into two parts Dev and Ops.
 ## Dev
    * Planning 
    * Designing
+   * Branching Strategy
    * [Code](https://github.com/Clustox/handbook/blob/main/dev/code/index.md)
    * Unit Testing
    * Integration Testing 
