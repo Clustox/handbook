@@ -37,7 +37,7 @@
 * Return early from functions to simplify the logic
 * Use method chaining for readability and composability.
 
-### React Project: 
+### React: 
 * Use stateless functional components for simple UI logic.
 * Pass data and event handlers as props to child components.
 * Avoid using inline functions in render method, as it causes re-renders.
@@ -62,7 +62,7 @@
 * Keep route names simple, avoid using complex names.
 * Use namespaces for organizing routes into modules.
 
-### React Project: 
+### React: 
 * Use a library like React Router for routing.
 * Use dynamic routing with parameters to handle routes with dynamic data.
 * Use exact prop for matching routes exactly.
@@ -86,5 +86,5 @@
 * Keep models simple and focused, with clear responsibilities and a single source of truth.
 * Use services and value objects to encapsulate complex business logic.
 * Use concerns and helpers to keep logic organized.
-### React
+### React:
 * We recommend to use ESLint for automated code linting and formatting.
