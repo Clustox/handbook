@@ -13,3 +13,10 @@ The key objectives of the Fresh Grads Training Program - 2023 are as follows:
 3. Professional Development: Develop essential professional skills such as time management, problem-solving, critical thinking, and adaptability, to succeed in a dynamic work environment.
 
 ## Project tasks
+
+   * [HTML/CSS](/fresh-grads-2023/html-css.md)
+   * [Basics of GIT](/fresh-grads-2023/git.md)
+   * [RUBY](/fresh-grads-2023/ruby.md)
+   * [Ruby on Rails](/fresh-grads-2023/rails.md)
+   * [Javascript](/fresh-grads-2023/javascript.md)
+   * [ReactJS](/fresh-grads-2023/react.md)
