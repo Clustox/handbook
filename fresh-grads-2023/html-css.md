@@ -8,8 +8,8 @@ The objective of this task is to provide a learning opportunity for fresh gradua
 
 1. HTML5 Revision:
     - Research and review the latest features and updates in HTML5.
-    - Study the semantic elements, such as <header>, <nav>, <section>, <article>, <footer>, etc.
-    - Familiarize yourself with the use of attributes and tags specific to HTML5, such as <video>, <audio>, <canvas>, etc.
+    - Study the semantic elements, such as < header >, < nav >, < section >, < article >, < footer >, etc.
+    - Familiarize yourself with the use of attributes and tags specific to HTML5, such as < video >, < audio >, < canvas >, etc.
     - Understand the importance of accessibility and SEO-friendly practices in HTML5.
 2. CSS and Flexbox Revision:
     - Review CSS selectors, properties, and values.
